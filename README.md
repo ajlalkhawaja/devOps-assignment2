@@ -1,2 +1,2 @@
-# dice_devops_assignment_2
-Wordpress Docker EC2 instance
+# DevOps-Assignment-2
+Docker EC2 instance ( Wordpress project creation )
